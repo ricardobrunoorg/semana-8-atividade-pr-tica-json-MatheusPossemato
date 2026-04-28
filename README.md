@@ -5,15 +5,15 @@ Nesta atividade, você fazer exercícios de programação para vai praticar a ma
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Matheus Possemato Lopes
+- Matricula:923502
 
 ## Prints do console do navegador
 
-<<  COLOQUE A IMAGEM - LISTAGEM DE TÍTULOS - AQUI >>
+<<  COLOQUE A IMAGEM - LISTAGEM DE TÍTULOS - AQUI >> ![alt text]({201CE39B-F3A0-44B5-BAEA-04DD459D2010}.png)
 
-<<  COLOQUE A IMAGEM - CÁLCULO DE MÉDIAS - AQUI >>
+<<  COLOQUE A IMAGEM - CÁLCULO DE MÉDIAS - AQUI >> ![alt text]({66389245-B7C2-4907-A474-1C0FBF199EFF}.png)
 
-<<  COLOQUE A IMAGEM - RESUMO DE VERIFICAÇÕES (SOME E EVERY) - AQUI >>
+<<  COLOQUE A IMAGEM - RESUMO DE VERIFICAÇÕES (SOME E EVERY) - AQUI >>![alt text]({7AE6D76E-7EAB-4BE6-90E7-CF6AA79E5D26}.png)
 
-<<  COLOQUE A IMAGEM - PÁGINA COM O RESUMO - AQUI >>
+<<  COLOQUE A IMAGEM - PÁGINA COM O RESUMO - AQUI >> ![alt text]({7748D355-1148-4942-8053-89C0226B7AF5}.png)
